@@ -1,3 +1,19 @@
 body {
   margin: 0;
 }
+
+header {
+  background: pink;
+}
+
+main {
+  background: skyblue;
+}
+
+aside {
+  background: orange;
+}
+
+footer {
+  background: silver;
+}
